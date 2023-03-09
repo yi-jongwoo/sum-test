@@ -11,4 +11,4 @@ sum.o: sum.cpp sum.h
 
 clean:
 	rm -f *.o
-	rm sum-test
+	rm -f sum-test
